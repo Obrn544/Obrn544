@@ -28,11 +28,11 @@
 ###
 
 <div align="center">
-  <a href="hhttps://www.linkedin.com/in/adolfo-omar-obreg%C3%B3n-henostroza-b0a5b129b/" target="_blank">
+  <a href="linkedin.com/in/adolfo-omar-obregón-henostroza-b0a5b129b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo" />
   </a>
   <a href="mailto:oobregon544@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail olgo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
   </a>
 </div>
 
