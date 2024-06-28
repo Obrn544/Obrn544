@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kiara-luz-fernandez-perez-a182a226b/" target="_blank">
+  <a href="hhttps://www.linkedin.com/in/adolfo-omar-obreg%C3%B3n-henostroza-b0a5b129b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo" />
   </a>
   <a href="mailto:oobregon544@gmail.com" target="_blank">
