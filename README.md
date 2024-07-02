@@ -1,18 +1,15 @@
 <h1 align="left">Hi 👋! My name is Omar Obregon and I'm a Fullstack Developer, from Perú</h1>
 
-<br>
-<div align="center">
+###
+
+<div align="center" >
     <a href="https://github.com/Obrn544">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Obrn544&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <br>
-    <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obrn544&layout=compact&langs_count=7&theme=gotham"/>
-    <br>
-    <br>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Obrn544&theme=gotham"/>
 </div>
 
-<br>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
