@@ -1,9 +1,10 @@
-<h1 align="left">Hi 👋! My name is Omar Obregon and I'm a Fullstack Developer, from Perú</h1>
+# Hi 👋! My name is Omar Obregon and I'm a Fullstack Developer, from Perú
+
+I am a passionate Fullstack web development student with a strong interest in learning and applying the latest technologies and practices in the sector. My goal is to become a competent and versatile professional capable of handling both the frontend and backend of web projects.
 
 ###
 
 <div align="center" >
-    <a href="https://github.com/Obrn544">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Obrn544&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obrn544&layout=compact&langs_count=7&theme=gotham"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Obrn544&theme=gotham"/>
@@ -45,9 +46,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="./assets/github-user-contribution.svg" />
-
-###
