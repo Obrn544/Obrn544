@@ -34,10 +34,7 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 
 ![Git](https://img.shields.io/badge/-Git-30284c?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-30284c?style=flat-square&logo=github)
-![Prisma](https://img.shields.io/badge/-Prisma-30284c?style=flat-square&logo=prisma)
 ![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-30284c?style=flat-square&logo=ubuntu)
-![Linux](https://img.shields.io/badge/-Linux-30284c?style=flat-square&logo=linux)
 
 ## 📊 Github Stats
 
