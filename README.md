@@ -15,6 +15,7 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 ![React](https://img.shields.io/badge/-React-30284c?style=flat-square&logo=react)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-30284c?style=flat-square&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-30284c?style=flat-square&logo=tailwindcss)
+![Astro](https://img.shields.io/badge/-Astro-30284c?style=flat-square&logo=astro)
 
 ### Backend:
 
