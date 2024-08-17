@@ -1,10 +1,10 @@
-# Hi there <img src="./assets/wave.gif" width="25">!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">!
 
 I am Omar Obregon a passionate Fullstack web development student with a strong interest in learning and applying the latest technologies and practices in the sector. My goal is to become a competent and versatile professional capable of handling both the frontend and backend of web projects.
 
 ###
 
-## ⚡ Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"><b> Mi Stack
 
 ### Frontend:
 
@@ -37,7 +37,7 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 ![GitHub](https://img.shields.io/badge/-GitHub-30284c?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker)
 
-## 📊 Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="15"> Github Stats
 
 <div align="center" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Obrn544&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
