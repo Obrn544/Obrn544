@@ -24,8 +24,8 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 <!-- ![Python](https://img.shields.io/badge/-Python-30284c?style=flat-square&logo=Python) -->
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-30284c?style=flat-square&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-30284c?style=flat-square&logo=Nestjs)
 ![Express](https://img.shields.io/badge/-Express-30284c?style=flat-square&logo=express)
+![Nestjs](https://img.shields.io/badge/-Nestjs-30284c?style=flat-square&logo=Nestjs)
 
 ### Databases:
 
