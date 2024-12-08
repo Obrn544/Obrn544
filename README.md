@@ -13,16 +13,14 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 ![Tailwind](https://img.shields.io/badge/-Tailwind-30284c?style=flat-square&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-30284c?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-30284c?style=flat-square&logo=react)
-
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-30284c?style=flat-square&logo=typescript) -->
-<!-- ![Astro](https://img.shields.io/badge/-Astro-30284c?style=flat-square&logo=astro) -->
-<!-- ![Nextjs](https://img.shields.io/badge/-Nextjs-30284c?style=flat-square&logo=next.js) -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-30284c?style=flat-square&logo=typescript)
+![Astro](https://img.shields.io/badge/-Astro-30284c?style=flat-square&logo=astro)
+![Nextjs](https://img.shields.io/badge/-Nextjs-30284c?style=flat-square&logo=next.js)
 
 ### Backend:
 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-30284c?style=flat-square&logo=typescript) -->
-<!-- ![Python](https://img.shields.io/badge/-Python-30284c?style=flat-square&logo=Python) -->
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-30284c?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-30284c?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-30284c?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-30284c?style=flat-square&logo=express)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-30284c?style=flat-square&logo=Nestjs)
@@ -37,8 +35,7 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 
 ![Git](https://img.shields.io/badge/-Git-30284c?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-30284c?style=flat-square&logo=github)
-
-<!-- ![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker) -->
+![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker)
 
 ## 📊 Github Stats
 
