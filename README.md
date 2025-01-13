@@ -29,7 +29,6 @@ I am Omar Obregon a passionate Fullstack web development student with a strong i
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-30284c?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-30284c?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-30284c?style=flat-square&logo=firebase)
 
 ### Technologies and Tools:
 
