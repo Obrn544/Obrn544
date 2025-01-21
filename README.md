@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">!
 
-I’m Omar Obregon, a Fullstack web development student eager to master modern technologies and excel in both frontend and backend development.
+<!-- I’m Omar Obregon, a Fullstack web development student eager to master modern technologies and excel in both frontend and backend development.
 
 ###
 
@@ -37,7 +37,7 @@ I’m Omar Obregon, a Fullstack web development student eager to master modern t
 
 ![Git](https://img.shields.io/badge/-Git-30284c?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-30284c?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker) -->
 
 ## 📊 Github Stats
 
