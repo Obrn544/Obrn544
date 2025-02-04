@@ -39,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-30284c?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-30284c?style=flat-square&logo=docker) -->
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats -->
 
 <div align="center" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Obrn544&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
