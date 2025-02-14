@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">!
+# <!-- Hi there --> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">!
 
 <!-- I’m Omar Obregon, a Fullstack web development student eager to master modern technologies and excel in both frontend and backend development.
 
