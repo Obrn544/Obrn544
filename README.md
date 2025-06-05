@@ -10,8 +10,7 @@ I’m Omar Obregon, a Fullstack web development student eager to master modern t
 ![CSS3](https://img.shields.io/badge/-CSS3-30284c?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-30284c?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-30284c?style=flat-square&logo=typescript)
-
-<!-- ![Python](https://img.shields.io/badge/-Python-30284c?style=flat-square&logo=Python) -->
+![Python](https://img.shields.io/badge/-Python-30284c?style=flat-square&logo=Python)
 
 ### Frameworks & Libraries:
 
