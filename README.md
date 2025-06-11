@@ -20,6 +20,7 @@ I’m Omar Obregon, a Fullstack web development student eager to master modern t
 ![Nextjs](https://img.shields.io/badge/-Nextjs-30284c?style=flat-square&logo=next.js)
 ![Astro](https://img.shields.io/badge/-Astro-30284c?style=flat-square&logo=astro)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-30284c?style=flat-square&logo=tailwindcss)
+![ReactRouter](https://img.shields.io/badge/-ReactRouter-30284c?style=flat-square&logo=reactrouter)
 
 #### Backend:
 
